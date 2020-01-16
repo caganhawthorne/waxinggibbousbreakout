@@ -31,6 +31,38 @@
     },
     "resources": [
         {
+            "Key": "0e7d926d-e09e-4feb-a570-385158c6e177",
+            "Value": {
+                "id": "2626a79d-d8f1-4e67-a67c-6526143724d1",
+                "resourcePath": "sprites\\spr_temp_ball\\spr_temp_ball.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0f31cf54-2ed8-4982-8ffd-19db4dc1d92b",
+            "Value": {
+                "id": "ce560871-4a84-4783-be53-01a7147ad635",
+                "resourcePath": "objects\\obj_paddle\\obj_paddle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0fc277cb-0098-4076-984c-6fe66c3e26c7",
+            "Value": {
+                "id": "7e071606-783f-48ee-b85c-0bb6a70bdf6c",
+                "resourcePath": "objects\\obj_start_button\\obj_start_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "23c03d5f-6a0a-48c0-9bc4-9a2ccb7ed921",
+            "Value": {
+                "id": "a1fead30-0c0e-4dfc-9c69-7a46370a64cc",
+                "resourcePath": "sprites\\spr_temp_paddle\\spr_temp_paddle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3d7fe76d-021d-4271-a5c3-0a9951c55f5d",
             "Value": {
                 "id": "18364e0f-cbfa-418a-bd67-2e7bc3450ca8",
@@ -44,6 +76,14 @@
                 "id": "ba10465d-42c1-4650-82bf-2ca106ffca19",
                 "resourcePath": "views\\4d9b4fb9-2d8e-422d-942c-8486a9f35377.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5339fc72-27a0-481a-8756-811b291a11f4",
+            "Value": {
+                "id": "5f329116-a9a3-45ca-b0e7-fb4deb2da398",
+                "resourcePath": "objects\\obj_temp_brick\\obj_temp_brick.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -74,7 +114,23 @@
             "Key": "7f37044c-745f-4746-8c6e-6e9fafd0d166",
             "Value": {
                 "id": "6c5d670f-b5c3-4c27-b0c8-e22ba0d66219",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\MainMenu\\MainMenu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "8492794c-5c16-44fb-8079-ddf3d8a83107",
+            "Value": {
+                "id": "6e545baf-7bd1-4d12-b0ad-f1dacbb190cb",
+                "resourcePath": "sprites\\spr_button_temp\\spr_button_temp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8ca5334c-d42c-4f93-97e9-28949527d952",
+            "Value": {
+                "id": "d1058b89-2dc5-4ab8-8a38-61c3d5c001e8",
+                "resourcePath": "rooms\\Level1\\Level1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -119,11 +175,35 @@
             }
         },
         {
+            "Key": "abfa5892-1abf-487a-b35c-a2b31abd6f31",
+            "Value": {
+                "id": "1f9da99c-06b0-4086-9b77-4146e5cf0bda",
+                "resourcePath": "objects\\obj_ball\\obj_ball.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "adea19f2-1e1e-4406-9bce-ba6dbdcf311d",
+            "Value": {
+                "id": "84138924-aec9-4fbe-b4af-b2d0ba9b2dab",
+                "resourcePath": "rooms\\GameOver\\GameOver.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "af224ead-8b12-496e-8b5c-42932639090f",
             "Value": {
                 "id": "d2050667-daad-4266-a24f-940197da7fa0",
                 "resourcePath": "views\\af224ead-8b12-496e-8b5c-42932639090f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b258484c-36af-49bf-99a4-1fb71f128dfb",
+            "Value": {
+                "id": "4dd0ad6b-cf62-4155-8a82-ec2055b76a46",
+                "resourcePath": "sprites\\spr_temp_brick\\spr_temp_brick.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
