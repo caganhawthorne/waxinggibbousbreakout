@@ -1,3 +1,3 @@
 //start game
 
-room_goto(Level1);
+room_goto(Level3);
