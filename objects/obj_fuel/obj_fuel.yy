@@ -1,8 +1,8 @@
 {
-    "id": "5339fc72-27a0-481a-8756-811b291a11f4",
+    "id": "d8fd57ba-0f9c-4147-9f15-d1ec26d6b371",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_temp_brick",
+    "name": "obj_fuel",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "b258484c-36af-49bf-99a4-1fb71f128dfb",
+    "spriteId": "bdadc872-e06f-4af7-836e-2b5c6da66a04",
     "visible": true
 }
