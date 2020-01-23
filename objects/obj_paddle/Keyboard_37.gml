@@ -1,4 +1,4 @@
 
-if (x > spd + sprite_xoffset) {
+if (x > sprite_xoffset) {
 	x -= spd;
 }

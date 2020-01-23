@@ -1,3 +1,3 @@
-if (x < room_width-spd-sprite_xoffset) {
+if (x < room_width-sprite_xoffset) {
 	x += spd;
 }
