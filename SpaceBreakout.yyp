@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0d1b2e26-fc72-44bb-8b28-2abbe781da6f",
+            "Value": {
+                "id": "f7bd3405-9bf8-4ed8-a70f-49ec7dbcad8e",
+                "resourcePath": "objects\\obj_background_start\\obj_background_start.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0e7d926d-e09e-4feb-a570-385158c6e177",
             "Value": {
                 "id": "2626a79d-d8f1-4e67-a67c-6526143724d1",
@@ -59,6 +67,14 @@
             "Value": {
                 "id": "7e071606-783f-48ee-b85c-0bb6a70bdf6c",
                 "resourcePath": "objects\\obj_start_button\\obj_start_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1e97e75b-5dd4-4c8c-861c-d6c8247ea30f",
+            "Value": {
+                "id": "a0bfce33-a4e3-4c69-8435-3d2658c43d02",
+                "resourcePath": "objects\\obj_background_Gameover\\obj_background_Gameover.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -156,6 +172,14 @@
                 "id": "f1872bad-e11c-4d38-92ca-30a0b5cc0020",
                 "resourcePath": "views\\55a5487e-8992-4695-9f06-496f91df224b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "566e58b0-8723-433b-8c55-6497b2808d57",
+            "Value": {
+                "id": "25e01037-39ca-4a6a-bcae-51fba30662ce",
+                "resourcePath": "objects\\obj_background_level\\obj_background_level.yy",
+                "resourceType": "GMObject"
             }
         },
         {
