@@ -8,3 +8,4 @@ global.player_score+=5;
 if(spd<12) {
 	spd+=.4;	
 }
+
