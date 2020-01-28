@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0ded1482-68ae-4957-a46c-8924e09cb77a",
+            "Value": {
+                "id": "c25e3759-670b-446d-859c-dc941c411de0",
+                "resourcePath": "rooms\\HowToPlay\\HowToPlay.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0f31cf54-2ed8-4982-8ffd-19db4dc1d92b",
             "Value": {
                 "id": "ce560871-4a84-4783-be53-01a7147ad635",
@@ -52,6 +60,14 @@
                 "id": "7e071606-783f-48ee-b85c-0bb6a70bdf6c",
                 "resourcePath": "objects\/obj_start_button\/obj_start_button.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "25a4b21b-db19-4e5e-9ad8-c8f065d532ca",
+            "Value": {
+                "id": "988009ce-9880-4f25-ae89-353ac026091d",
+                "resourcePath": "rooms\\Level5\\Level5.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -76,6 +92,14 @@
                 "id": "5e0c2b86-7e7f-4ed3-8bcf-92819f0c0315",
                 "resourcePath": "sprites\/spr_junk\/spr_junk.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "384a9b1d-b780-48d6-ab27-a1595a8e89c9",
+            "Value": {
+                "id": "fbb1e76e-63d5-4ef0-a384-eefc866e882c",
+                "resourcePath": "rooms\\Level2\\Level2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -111,6 +135,14 @@
             }
         },
         {
+            "Key": "4a341f2d-b6ec-4720-8db3-ddec2c2b4d31",
+            "Value": {
+                "id": "7ed3cae5-54bd-407d-a047-8f2ceeaf2f7b",
+                "resourcePath": "rooms\\Level1\\Level1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "4bf3bbe3-ab05-4691-92a8-a0d23518ec6e",
             "Value": {
                 "id": "fcc7eee5-9955-4bd2-895b-f26dbb66640f",
@@ -132,6 +164,14 @@
                 "id": "be5a5fd6-635f-49ab-8769-fd8f14dee806",
                 "resourcePath": "objects\/obj_restart_button\/obj_restart_button.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "51ccbaa4-daf8-48fa-915b-7a778af32d98",
+            "Value": {
+                "id": "743da922-aaa2-40c1-840b-6c4808fbffe5",
+                "resourcePath": "rooms\\Level4\\Level4.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
