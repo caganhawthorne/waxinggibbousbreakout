@@ -6,6 +6,6 @@ if(obj_ball.levelStarted) {
 	}
 	if timer = 0 {
 		timer = -1;
-		room_goto(GameOver);
+		room_goto_next();
 	}
 }
