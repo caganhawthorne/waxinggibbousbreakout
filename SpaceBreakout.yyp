@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "6e6ff96a-a7d7-4846-ba7f-2722b95ab3ad",
+            "Value": {
+                "id": "40124625-2380-48cf-af70-feeeaa99bdfd",
+                "resourcePath": "objects\\obj_draw_add_time\\obj_draw_add_time.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6fcd4080-de5f-4937-af7b-955a556de30e",
             "Value": {
                 "id": "4dd5d3fb-0835-4ef6-bae7-37e9f09b8779",
