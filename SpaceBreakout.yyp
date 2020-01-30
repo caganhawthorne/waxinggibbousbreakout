@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "8a8adde8-ba3c-47fa-ba33-e4f9aeb08ea1",
+            "Value": {
+                "id": "55f5cf94-6d60-49a2-af51-27c47864de42",
+                "resourcePath": "objects\/obj_how_to_play_button\/obj_how_to_play_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8ca5334c-d42c-4f93-97e9-28949527d952",
             "Value": {
                 "id": "d1058b89-2dc5-4ab8-8a38-61c3d5c001e8",
@@ -455,11 +463,27 @@
             }
         },
         {
+            "Key": "bde0f029-7fc6-4dd7-b448-b9d427f94784",
+            "Value": {
+                "id": "191a55fa-192f-4f18-83ac-ed71339a38f3",
+                "resourcePath": "objects\/repair_kit\/repair_kit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bfba5b4e-cc6b-45df-8595-af291827909e",
             "Value": {
                 "id": "93971561-7cf3-4573-ac19-44ce352b0a06",
                 "resourcePath": "views\/bfba5b4e-cc6b-45df-8595-af291827909e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ca399417-38cc-48b0-804d-bf050cda54b8",
+            "Value": {
+                "id": "4ceb545f-b30e-4022-a1bf-b579a2c2eaaa",
+                "resourcePath": "objects\/obj_win_screen\/obj_win_screen.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -492,6 +516,14 @@
                 "id": "1a227c73-1003-4b28-804f-7473ceed7cb3",
                 "resourcePath": "sprites\/spr_fuel\/spr_fuel.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d86fb93a-1352-4da2-b106-edbeaf891c0d",
+            "Value": {
+                "id": "1478541e-1611-44d3-a5d5-ed72c2cf1a22",
+                "resourcePath": "objects\/obj_back\/obj_back.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -547,6 +579,14 @@
             "Value": {
                 "id": "563b83b3-c137-4c05-a4d4-cfde4f513648",
                 "resourcePath": "sounds\/snd_collect_fuel\/snd_collect_fuel.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "f02a8c76-61f5-45a5-9366-0aa15604691c",
+            "Value": {
+                "id": "4f2184a8-96e2-4366-bfb2-0c92bae1a7fc",
+                "resourcePath": "sounds\/snd_victory\/snd_victory.yy",
                 "resourceType": "GMSound"
             }
         },

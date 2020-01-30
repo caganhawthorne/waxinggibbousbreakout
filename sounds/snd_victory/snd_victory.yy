@@ -1,8 +1,8 @@
 {
-    "id": "6fcd4080-de5f-4937-af7b-955a556de30e",
+    "id": "f02a8c76-61f5-45a5-9366-0aa15604691c",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "snd_bounce",
+    "name": "snd_victory",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.8
+    "volume": 1
 }

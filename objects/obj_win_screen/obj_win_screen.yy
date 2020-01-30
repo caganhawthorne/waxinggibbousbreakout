@@ -1,18 +1,18 @@
 {
-    "id": "332b902b-73b5-426e-8919-8591b00bc4e0",
+    "id": "ca399417-38cc-48b0-804d-bf050cda54b8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_HowToPlay",
+    "name": "obj_win_screen",
     "eventList": [
         {
-            "id": "15afa1ff-9192-4cff-9f7d-19d07bf54c78",
+            "id": "83c73525-7e7b-48ac-8d18-193daad8d08d",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "332b902b-73b5-426e-8919-8591b00bc4e0"
+            "m_owner": "ca399417-38cc-48b0-804d-bf050cda54b8"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "38695577-6343-4021-8de0-606dcb2156ce",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
