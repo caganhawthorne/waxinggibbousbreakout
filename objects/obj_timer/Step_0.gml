@@ -8,7 +8,7 @@ if(obj_ball.levelStarted) {
 		timer = -1;
 		obj_ball.levelStarted = false;
 		obj_ball.levelCompleted = true;
-		//instance create button at room_width/2, room_height/2
-		room_goto_next();
+		instance_create_layer(room_width/2,room_height/2,"Draw",obj_next_button);
+		//room_goto_next();
 	}
 }

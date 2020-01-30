@@ -1,1 +1,1 @@
-timer = 60*room_speed;
+timer = 10*room_speed;

@@ -42,7 +42,7 @@
             "Key": "0ded1482-68ae-4957-a46c-8924e09cb77a",
             "Value": {
                 "id": "c25e3759-670b-446d-859c-dc941c411de0",
-                "resourcePath": "rooms\\HowToPlay\\HowToPlay.yy",
+                "resourcePath": "rooms\/HowToPlay\/HowToPlay.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -66,7 +66,7 @@
             "Key": "25a4b21b-db19-4e5e-9ad8-c8f065d532ca",
             "Value": {
                 "id": "988009ce-9880-4f25-ae89-353ac026091d",
-                "resourcePath": "rooms\\Level5\\Level5.yy",
+                "resourcePath": "rooms\/Level5\/Level5.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -87,10 +87,18 @@
             }
         },
         {
+            "Key": "304b57eb-46d7-4afc-bdd7-bc00f6fa9bc5",
+            "Value": {
+                "id": "f5c7d9c1-9b34-4ee5-9e59-391f65284840",
+                "resourcePath": "objects\/obj_next_button\/obj_next_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "332b902b-73b5-426e-8919-8591b00bc4e0",
             "Value": {
                 "id": "082a8c7d-9d28-473e-af90-b1e05c576d7a",
-                "resourcePath": "objects\\obj_HowToPlay\\obj_HowToPlay.yy",
+                "resourcePath": "objects\/obj_HowToPlay\/obj_HowToPlay.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -106,7 +114,7 @@
             "Key": "384a9b1d-b780-48d6-ab27-a1595a8e89c9",
             "Value": {
                 "id": "fbb1e76e-63d5-4ef0-a384-eefc866e882c",
-                "resourcePath": "rooms\\Level2\\Level2.yy",
+                "resourcePath": "rooms\/Level2\/Level2.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -114,7 +122,7 @@
             "Key": "38695577-6343-4021-8de0-606dcb2156ce",
             "Value": {
                 "id": "64599ccb-92ea-4d53-ae08-55cb7b1e617b",
-                "resourcePath": "sprites\\spr_HowToPlay\\spr_HowToPlay.yy",
+                "resourcePath": "sprites\/spr_HowToPlay\/spr_HowToPlay.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -130,7 +138,7 @@
             "Key": "3eea8dbb-2169-44e4-99b8-86fb68658120",
             "Value": {
                 "id": "7800eeaf-3437-4cb5-a957-cd610d0df0af",
-                "resourcePath": "sprites\\spr_level2\\spr_level2.yy",
+                "resourcePath": "sprites\/spr_level2\/spr_level2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -146,7 +154,7 @@
             "Key": "415c9e65-2f79-4627-a35e-68081d0dc44f",
             "Value": {
                 "id": "9b5066c3-ff70-43c9-95c8-a342561d182f",
-                "resourcePath": "sprites\\spr_level1\\spr_level1.yy",
+                "resourcePath": "sprites\/spr_level1\/spr_level1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -162,7 +170,7 @@
             "Key": "4a341f2d-b6ec-4720-8db3-ddec2c2b4d31",
             "Value": {
                 "id": "7ed3cae5-54bd-407d-a047-8f2ceeaf2f7b",
-                "resourcePath": "rooms\\Level1\\Level1.yy",
+                "resourcePath": "rooms\/Level1\/Level1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -186,7 +194,7 @@
             "Key": "4ebeccbe-bc4c-4c9b-9181-1ceecf7acae4",
             "Value": {
                 "id": "94e9574c-5d89-4d6d-acab-4b8af7bdc98a",
-                "resourcePath": "sprites\\spr_level5\\spr_level5.yy",
+                "resourcePath": "sprites\/spr_level5\/spr_level5.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -202,7 +210,7 @@
             "Key": "50ccfa65-2cc2-46a6-9ff6-a1484755d3a7",
             "Value": {
                 "id": "4075223b-1f1d-4c48-8be5-ce0b11700663",
-                "resourcePath": "sprites\\spr_level4\\spr_level4.yy",
+                "resourcePath": "sprites\/spr_level4\/spr_level4.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -210,7 +218,7 @@
             "Key": "51ccbaa4-daf8-48fa-915b-7a778af32d98",
             "Value": {
                 "id": "743da922-aaa2-40c1-840b-6c4808fbffe5",
-                "resourcePath": "rooms\\Level4\\Level4.yy",
+                "resourcePath": "rooms\/Level4\/Level4.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -258,7 +266,7 @@
             "Key": "6e6ff96a-a7d7-4846-ba7f-2722b95ab3ad",
             "Value": {
                 "id": "40124625-2380-48cf-af70-feeeaa99bdfd",
-                "resourcePath": "objects\\obj_draw_add_time\\obj_draw_add_time.yy",
+                "resourcePath": "objects\/obj_draw_add_time\/obj_draw_add_time.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -522,7 +530,7 @@
             "Key": "e43d05b4-66dc-4b27-9668-8bf3013fd6db",
             "Value": {
                 "id": "112d699a-9c67-478e-abb7-8eab62b83579",
-                "resourcePath": "sprites\\spr_level3\\spr_level3.yy",
+                "resourcePath": "sprites\/spr_level3\/spr_level3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -540,6 +548,14 @@
                 "id": "563b83b3-c137-4c05-a4d4-cfde4f513648",
                 "resourcePath": "sounds\/snd_collect_fuel\/snd_collect_fuel.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "f2442598-f5ba-4fc1-a419-135e2caa4be8",
+            "Value": {
+                "id": "994e8e38-472b-4e5c-b8a3-810e51ce4aac",
+                "resourcePath": "rooms\/GameWin\/GameWin.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

@@ -12,7 +12,7 @@ draw_set_color(c_white);
 draw_text(x+24,y+72,"Score: "+string(global.player_score));
 
 
-if(!obj_ball.levelStarted) {
+if(!obj_ball.levelStarted && !obj_ball.levelCompleted) {
 	draw_set_halign(fa_center);
 	draw_text(room_width/2,room_height-200,"Press space to start");
 }

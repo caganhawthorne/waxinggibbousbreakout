@@ -10,5 +10,5 @@ if !instance_exists(obj_resource){
 	levelStarted = false;
 	levelCompleted = true;
 	//instance create button at room_width/2, room_height/2
-	room_goto_next();	
+	instance_create_layer(x,y,"Draw",obj_next_button);
 }
